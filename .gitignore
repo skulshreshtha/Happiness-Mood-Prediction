@@ -1,0 +1,6 @@
+# Cache & Checkpoints
+.ipynb_checkpoints
+__pycache__
+
+# Base trial file
+Predict_Happiness_Source_Base.ipynb
