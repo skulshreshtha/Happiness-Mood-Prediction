@@ -1,0 +1,2 @@
+# Happiness Mood Prediction
+As part of a data science competition hosted by Hackerearth, the problem statement was to predict the source of happiness based on the provided detailed response. It was a multi-class classification problem which I solved using text processing followed by ML techniques like Logistic Regression, Naive-Bayes, and state-of-the-art **BERT**
